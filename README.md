@@ -1,6 +1,6 @@
 # DBot
 
-This software is currently being developed. Star the repository and follow for more updates.
+This software is currently being developed. Star the repository and watch for more updates.
   
 ## Introduction
 
