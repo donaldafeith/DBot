@@ -1,5 +1,6 @@
 # DBot
 
+This software is currently being developed. Star the repository and follow for more updates.
   
 ## Introduction
 
@@ -19,4 +20,3 @@ This repository showcases an innovative chatbot with the unique capability of bo
     
 -   **Flexible Deployment**: You have the freedom to deploy the chatbot across various platforms, including web applications, messaging services, or integrate it seamlessly into your existing software.
 
-This software is currently being developed. Star the repository and follow for more updates.
