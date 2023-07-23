@@ -18,3 +18,5 @@ This repository showcases an innovative chatbot with the unique capability of bo
 -   **Dynamic Learning**: The chatbot is equipped with a learning mechanism, enabling continuous improvement over time. Through interactions with users, it enhances its responses and self-thinking capabilities.
     
 -   **Flexible Deployment**: You have the freedom to deploy the chatbot across various platforms, including web applications, messaging services, or integrate it seamlessly into your existing software.
+
+This software is currently being developed. Star the repository and follow for more updates.
